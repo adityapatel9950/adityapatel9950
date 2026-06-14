@@ -1,6 +1,20 @@
 ## Hi there 👋
 # 💫 About Me:
 B.Tech CSE @ KIT Kanpur | Learning Python 🐍 | <br>Aspiring Software Engineer & AI Developer | Building in public 🚀<br>Building my Python fundamentals — loops, functions, <br>and logic building through daily coding practice.<br>Beginner-friendly Python projects, open source <br>first-contributions, and student developer communities.<br>Best practices in Python, project ideas for beginners, <br>and how to structure code like a professional developer.<br>Python (Core) → Data Structures & Algorithms → <br>Git & GitHub → Data Science & AI (upcoming)<br>My learning journey, Python basics, or how I'm <br>building my career from scratch as a CSE student.<br>I do my best thinking and coding after 10 PM — <br>night mode is my real superpower. 🌙
+🎓 B.Tech CSE Student @ KIT Kanpur
+
+💻 Aspiring Software Engineer
+
+🐍 Currently learning Python and strengthening problem-solving skills through daily coding practice.
+
+🚀 Learning Path:
+Python → Data Structures & Algorithms → Git & GitHub → Data Science & AI
+
+🌱 Building beginner-friendly projects, exploring open source, and continuously improving my development skills.
+
+📚 Interested in software engineering, clean code, automation, and real-world problem solving.
+
+⚡ Fun Fact: I do my best thinking and coding after 10 PM.
 
 
 ## 🌐 Socials:
